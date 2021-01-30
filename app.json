@@ -1,0 +1,12 @@
+{
+  "name": "zipRiderMark1",
+  "displayName": "zipRiderMark1",
+  "expo": {
+    "name": "zipRiderMark1",
+    "slug": "zipRiderMark1",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
