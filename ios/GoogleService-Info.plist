@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1090129392760-0bf56u7kuliluksh7o53581dd5q8i5sb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1090129392760-0bf56u7kuliluksh7o53581dd5q8i5sb</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDMDC1qo7DfW48u5Znwccq_Z57AXP8PSk4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1090129392760</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.aurora.ziprider</string>
+	<key>PROJECT_ID</key>
+	<string>ziprider-490eb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ziprider-490eb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1090129392760:ios:5a99446660c3297f2be98d</string>
+</dict>
+</plist>
